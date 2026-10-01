@@ -21,6 +21,9 @@
 > **[Advanced AI Society](https://advancedaisociety.org/)**. Join a working group, comment on
 > the draft, or become a member — **[sign up at advancedaisociety.org](https://advancedaisociety.org/)**.
 
+> **Canonical upstream:** this repo is a working fork; the standard's canonical home is
+> [LFDT-ProofOfControl/ov-poc-standard](https://github.com/LFDT-ProofOfControl/ov-poc-standard).
+
 ## What is Proof-of-Control?
 
 The **Proof-of-Control Standard** is a catalogue of verifiable requirements for AI agent systems: open, tamper-evident evidence of what an agent actually did — the data it touched, the authority it exercised, the tools it invoked — in a form anyone can verify **without trusting the operator**. Every requirement follows the same philosophy as [OWASP AISVS/ASVS](https://github.com/OWASP/AISVS): **verifiable, testable, and implementable**.
